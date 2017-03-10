@@ -100,7 +100,7 @@ does not matter.
 
 Using the defined services is also very easy:
 
-使用已定义的 services 同样也时非常容易：
+使用已定义的 services 同样也是非常容易：
 
 .. code-block:: php
 
